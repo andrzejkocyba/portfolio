@@ -16,7 +16,9 @@
     "html5",
     "javascript",
     "css",
-    "sass"
+    "sass",
+    "node",
+    "express"
   ],
   "author": "Andrzej Kocyba",
   "license": "ISC",
@@ -28,6 +30,7 @@
     "gulp": "^3.9.1"
   },
   "dependencies": {
+    "ejs": "^2.5.6",
     "express": "^4.15.3"
   }
 }
